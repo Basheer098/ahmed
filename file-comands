@@ -1,0 +1,128 @@
+pwd 
+whoami
+who am i
+hostname
+uname -r
+uname -a
+last
+last login
+usres
+date 
+cal 
+cal 2023
+hostnamectl
+cat /etc/os-release
+cat /etc/redhat-release
+cat /etc/rockylinux-relaese
+tree
+rpm -q packagename
+rpm -qi packagename
+rpm -Rqi packagename
+yum list installed
+yum list avalilabe
+yum update -y
+yum  remove pakage-name
+chmod u=rwx
+chmod g+rwx
+chmod g-r
+chmod o-w
+chmod o-x
+chmod ugo-rwx
+cat >fliename
+cat >>filename
+cat filename
+ctrl+d
+touch filename
+touch filename filename..nth filename
+touch filename{1..nthfilenamenumber}
+touch .filename
+mkdir directry-name
+mkdir directry-name directry-name.. nth directry-name
+mkdir directery-name{1..nth directry name}
+mkdi .directrynamels
+mkdir -p /directory-name/.directory-name
+ls
+ls -l
+ls -a
+ls -la
+ls -r
+ls lra
+ls -o
+ll
+ll -a
+ll -a
+ll -r
+ll -o
+ll -ro
+mu filename newfile
+mv source-path destinaiton-path
+cp fil-ename new filename
+cp source-file-path destionation-path
+cp -r source-directory-path destionation-path
+cp -rvfp source directory-path destination-path
+rm filename
+rm source-path/filename
+rm -f filename
+rm -f sourcepath/file-name
+rm -r directory name
+rm -r directory-name directory-name ..nth directory-name
+rm -r source-directory/name
+rm -rf source-directory/name
+rm -rf director-name directory-name..nth directory-name
+cd ..
+cd ../../.. nth directry
+
+init 0
+init 5
+init 3
+init 6
+
+reboot
+
+free -h
+free -m
+free -k
+free -b
+lsbik
+fdisk -1
+du  -h
+
+
+vim filename
+vi filename
+i
+r
+o
+o
+a
+A
+w
+b
+nw
+ndd
+yy
+nyy
+p
+hjkl
+u
+x
+X
+G
+g
+set nu
+set nonu
+:!command
+:w
+:wq
+:q
+:wq
+:q!
+:wq!
+/character-name
+/word-name
+:wq
+
+
+
+
+  
